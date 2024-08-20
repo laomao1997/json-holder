@@ -1,0 +1,36 @@
+{
+    "status": 200,
+    "message": "操作成功",
+    "data": [
+        {
+            "id": 1,
+            "party_id": "0001018307",
+            "key_word": "企业数字化转型",
+            "title": "广东省升为书及：啊实打实大苏打",
+            "source_web": "新京报",
+            "link": "https://www.baidu.com",
+            "send_context": "此处长文本省略",
+            "i_summary": "广东省啊大苏打实打实大苏打实打实大苏打实打实阿大撒大撒大撒大撒大大实打实大苏打阿达萨达实打实实打实",
+            "i_answer": "[]",
+            "send_date": "2024-02-20T00:00:00",
+            "recommend": 0,
+            "send_time": "2024-04-01T21:23:06",
+            "status": 0
+        },
+        {
+            "id": 2,
+            "party_id": "0001018307",
+            "key_word": "intitle:\"智能制造\"OR\"工业互联网\"",
+            "title": "特斯拉中国放出2月招聘职位",
+            "source_web": "TechWeb",
+            "link": "https://www.baidu.com",
+            "send_context": "此处长文本省略",
+            "i_summary": "广东省啊大苏打实打实大苏打实打实大苏打实打实阿大撒大撒大撒大撒大大实打实大苏打阿达萨达实打实实打实",
+            "i_answer": "[]",
+            "send_date": "2024-02-20T00:00:00",
+            "recommend": 0,
+            "send_time": "2024-04-01T21:23:06",
+            "status": 0
+        }
+    ]
+}
