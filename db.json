@@ -96,5 +96,19 @@
                 "status": 0
             }
         ]
+    },
+    "getReportList": {
+        "status": 200,
+        "message": "操作成功",
+        "data": [
+            {
+                "party_id": "0001278542",
+                "report_list": [
+                    "20240419",
+                    "20240420",
+                    "20240421"
+                ]
+            }
+        ]
     }
 }
